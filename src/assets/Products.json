@@ -1,0 +1,229 @@
+{
+  "products": [
+    {
+      "product_id": "laptop_001",
+      "product_title": "Dell Inspiron 15",
+      "product_image": "/picture/air-m2.jpg",
+      "category": "Laptop",
+      "price": 750.00,
+      "description": "15.6-inch laptop with AMD Ryzen 5 processor, 8GB RAM, and 256GB SSD.",
+      "specifications": {
+        "Processor": "AMD Ryzen 5",
+        "RAM": "8GB",
+        "Storage": "256GB SSD",
+        "ScreenSize": "15.6 inches",
+        "Operating System": "Windows 10"
+      },
+      "availability": true,
+      "rating": 4.5,
+      "brand": "Dell"
+    },
+    {
+      "product_id": "laptop_002",
+      "product_title": "Apple MacBook Air M1",
+      "product_image": "https://i.ibb.co.com/7ND7LM9/xps-13.webpg",
+      "category": "Laptop",
+      "price": 999.99,
+      "description": "13-inch MacBook Air with M1 chip, 8GB RAM, and 256GB SSD.",
+      "specifications": {
+        "Processor": "Apple M1",
+        "RAM": "8GB",
+        "Storage": "256GB SSD",
+        "ScreenSize": "13 inches",
+        "BatteryLife": "Up to 18 hours"
+      },
+      "availability": false,
+      "rating": 4.9,
+      "brand": "Apple"
+    },
+    {
+      "product_id": "laptop_003",
+      "product_title": "HP Pavilion 14",
+      "product_image": "https://i.ibb.co.com/wLVm5K8/spectre-360.jpg",
+      "category": "Laptop",
+      "price": 650.00,
+      "description": "14-inch laptop with Intel Core i5 processor, 8GB RAM, and 512GB SSD.",
+      "specifications": {
+        "Processor": "Intel Core i5",
+        "RAM": "8GB",
+        "Storage": "512GB SSD",
+        "ScreenSize": "14 inches",
+        "Operating System": "Windows 11"
+      },
+      "availability": true,
+      "rating": 4.4,
+      "brand": "HP"
+    },
+    {
+      "product_id": "laptop_004",
+      "product_title": "Asus ZenBook 13",
+      "product_image": "https://i.ibb.co.com/yqJH4z1/surface-4.jpg",
+      "category": "Laptop",
+      "price": 700.00,
+      "description": "13-inch ultra-slim laptop with Intel Core i7, 16GB RAM, and 512GB SSD.",
+      "specifications": {
+        "Processor": "Intel Core i7",
+        "RAM": "16GB",
+        "Storage": "512GB SSD",
+        "ScreenSize": "13 inches",
+        "Operating System": "Windows 10"
+      },
+      "availability": true,
+      "rating": 4.7,
+      "brand": "Asus"
+    },
+    {
+      "product_id": "smartwatch_001",
+      "product_title": "Apple Watch Series 7",
+      "product_image": "https://i.ibb.co.com/dJMDP3b/watch-series-8.jpg",
+      "category": "Smartwatch",
+      "price": 399.99,
+      "description": "Apple Watch Series 7 with GPS, 41mm case, Midnight aluminum finish.",
+      "specifications": {
+        "CaseSize": "41mm",
+        "GPS": "Yes",
+        "WaterResistance": "50 meters",
+        "BatteryLife": "Up to 18 hours"
+      },
+      "availability": true,
+      "rating": 4.8,
+      "brand": "Apple"
+    },
+    {
+      "product_id": "smartwatch_002",
+      "product_title": "Samsung Galaxy Watch 4",
+      "product_image": "https://i.ibb.co.com/KF9ysHd/versa-4.jpg",
+      "category": "Smartwatch",
+      "price": 249.99,
+      "description": "Samsung Galaxy Watch 4 with body composition analysis and GPS.",
+      "specifications": {
+        "CaseSize": "40mm",
+        "GPS": "Yes",
+        "BatteryLife": "Up to 40 hours",
+        "Compatibility": "Android"
+      },
+      "availability": true,
+      "rating": 4.5,
+      "brand": "Samsung"
+    },
+    {
+      "product_id": "smartwatch_003",
+      "product_title": "Fitbit Versa 3",
+      "product_image": "https://i.ibb.co.com/415FQvS/galaxy-watch-5.jpg",
+      "category": "Smartwatch",
+      "price": 229.95,
+      "description": "Fitbit Versa 3 with GPS, 24/7 heart rate tracking, and Alexa built-in.",
+      "specifications": {
+        "BatteryLife": "Up to 6 days",
+        "WaterResistance": "50 meters",
+        "Compatibility": "iOS and Android",
+        "ScreenType": "AMOLED"
+      },
+      "availability": true,
+      "rating": 4.3,
+      "brand": "Fitbit"
+    },
+    {
+      "product_id": "smartwatch_004",
+      "product_title": "Garmin Forerunner 245",
+      "product_image": "https://i.ibb.co.com/hdSSLrR/garmin-245.webp",
+      "category": "Smartwatch",
+      "price": 299.99,
+      "description": "Garmin Forerunner 245 with advanced running dynamics and VO2 max.",
+      "specifications": {
+        "BatteryLife": "Up to 7 days",
+        "GPS": "Yes",
+        "WaterResistance": "50 meters",
+        "Compatibility": "iOS and Android"
+      },
+      "availability": true,
+      "rating": 4.6,
+      "brand": "Garmin"
+    },
+    {
+      "product_id": "phone_001",
+      "product_title": "Samsung Galaxy S22",
+      "product_image": "https://i.ibb.co.com/dp1ZyFr/s23-ultra.webp",
+      "category": "Mobile Phone",
+      "price": 999.99,
+      "description": "Samsung Galaxy S22 with 6.1-inch Dynamic AMOLED display and 128GB storage.",
+      "specifications": {
+        "ScreenSize": "6.1 inches",
+        "Camera": "50 MP",
+        "Battery": "3700 mAh",
+        "Storage": "128GB"
+      },
+      "availability": true,
+      "rating": 4.7,
+      "brand": "Samsung"
+    },
+    {
+      "product_id": "phone_002",
+      "product_title": "Apple iPhone 13",
+      "product_image": "https://i.ibb.co.com/pKHySjd/i-Phone-14-pro.jpg",
+      "category": "Mobile Phone",
+      "price": 899.00,
+      "description": "Apple iPhone 13 with 6.1-inch Super Retina XDR display and 128GB storage.",
+      "specifications": {
+        "ScreenSize": "6.1 inches",
+        "Camera": "12 MP",
+        "Battery": "3240 mAh",
+        "Storage": "128GB"
+      },
+      "availability": true,
+      "rating": 4.9,
+      "brand": "Apple"
+    },
+    {
+      "product_id": "phone_003",
+      "product_title": "Google Pixel 6",
+      "product_image": "/picture/image.png",
+      "category": "Mobile Phone",
+      "price": 599.00,
+      "description": "Google Pixel 6 with 6.4-inch AMOLED display and 128GB storage.",
+      "specifications": {
+        "ScreenSize": "6.4 inches",
+        "Camera": "50 MP",
+        "Battery": "4614 mAh",
+        "Storage": "128GB"
+      },
+      "availability": true,
+      "rating": 4.6,
+      "brand": "Google"
+    },
+    {
+      "product_id": "audio_001",
+      "product_title": "Apple AirPods Pro",
+      "product_image": "https://t3.ftcdn.net/jpg/04/08/38/46/360_F_408384620_TUotS6FrAwhpg7gUCQqZca9WlJZE3oRM.jpg",
+      "category": "Audio",
+      "price": 249.00,
+      "description": "Apple AirPods Pro with Active NoiseCancellation and Transparency mode.",
+      "specifications": {
+        "Type": "In-Ear",
+        "NoiseCancellation": "Yes",
+        "BatteryLife": "Up to 24 hours",
+        "Connectivity": "Bluetooth"
+      },
+      "availability": true,
+      "rating": 4.8,
+      "brand": "Apple"
+    },
+    {
+      "product_id": "audio_002",
+      "product_title": "Sony WH-1000XM4",
+      "product_image": "https://www.androidauthority.com/wp-content/uploads/2021/04/sony-wh-1000xm4-white.jpg",
+      "category": "Audio",
+      "price": 349.99,
+      "description": "Sony WH-1000XM4 over-ear headphones with industry-leading noise cancellation.",
+      "specifications": {
+        "Type": "Over-Ear",
+        "NoiseCancellation": "Yes",
+        "BatteryLife": "Up to 30 hours",
+        "Compatibility": "iOS and Android"
+      },
+      "availability": true,
+      "rating": 4.7,
+      "brand": "Sony"
+    }
+  ]
+}

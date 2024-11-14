@@ -1,0 +1,26 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "category": "Laptop",
+      "description": "Laptops with various specifications and brands for work, study, and gaming."
+    },
+    {
+      "id": "2",
+      "category": "Smartwatch",
+      "description": "Smartwatches with health tracking, GPS, and connectivity features."
+    },
+    {
+      "id": "3",
+      "category": "Mobile Phone",
+      "description": "Latest smartphones with advanced camera, storage, and display features."
+    },
+    {
+      "id": "4",
+      "category": "Audio",
+      "description": "Audio devices like AirPods, headphones, and earbuds with noise cancellation and high-quality sound."
+    }
+  ]
+}
+
+  
